@@ -1,2 +1,2 @@
 # FunAndGames
-A learn-by-doing github repo to get started
+A learn-by-doing github repo to get started with graphics and game events
